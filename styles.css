@@ -31,11 +31,13 @@ body {
     width: 290px;
     border-radius: 3.5%;
     margin: 20px;
+    cursor: pointer;
 }
 
 .title {
     font-size: large;
     padding-top: 0px;
+    cursor: pointer;
 }
 
 .bioText {
@@ -69,7 +71,7 @@ body {
 }
 
 .line {
-    background-color: hsl(215, 51%, 70%);
+    background-color: hsl(216, 23%, 23%);
     height: 2px;
     width: auto;
     margin-top: 20px;
@@ -81,15 +83,23 @@ body {
 }
 
 .avatarImg {
-    padding-top: 20px;
+    padding-top: 17px;
     padding-right: 20px;
     width: 33px;
 }
 
 .creator {
-    padding-top: 20px;
+    padding-top: 17px;
     display: flex;
     justify-content: center;
+}
+
+.name {
+    cursor: pointer;
+}
+
+.creatorColors {
+    color: hsl(215, 51%, 70%);
 }
 
 .footer {
