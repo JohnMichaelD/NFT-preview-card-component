@@ -47,7 +47,7 @@ Users should be able to:
 
 From this quick project, I was able to practice my HTML and CSS skills and create an NFT card from a design. 
 
-This was my first time adding a hover to an image, and had some complexities when needing to add an image to the image hover, as well as centering it. I also had some issues with the deployment actually showing the hover. 
+This was my first time adding a hover to an image, and had some complexities when needing to add an image to the image hover, as well as centering it. 
 
 
 ### Continued development
